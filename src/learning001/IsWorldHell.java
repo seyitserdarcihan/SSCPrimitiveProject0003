@@ -9,3 +9,4 @@ public class IsWorldHell {
         System.out.println("But in Hell, there is only misery and misery");
     }
 }
+
