@@ -1,7 +1,7 @@
 In this project, I began to learn Java practically. This is the starting point for my Java journey.
 
-My first Java code was this:
-https://github.com/seyitserdarcihan/SSCPrimitiveProject0003/blob/master/src/learning001/IsWorldHell.java
+My first Java code was this:<br>
+[IsWorldHell.java](https://github.com/seyitserdarcihan/SSCPrimitiveProject0003/blob/main/src/learning001/IsWorldHell.java)
 <br>
 I wrote my first Java code on September 12, 2023.
 
