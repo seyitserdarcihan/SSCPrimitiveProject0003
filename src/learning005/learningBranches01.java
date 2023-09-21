@@ -6,5 +6,7 @@ public class learningBranches01 {
 
         System.out.println("Kendi dalımda çalışmayı öğreniyorum");
 
+        System.out.println("IntelliJ IDEA, dallar arasında çakışma olursa gösterir");
+
     }
 }
