@@ -6,7 +6,7 @@ public class learningBranches01 {
 
         System.out.println("Kendi dalımda çalışmayı öğreniyorum");
 
-        System.out.println("ve satırı değiştirdim");
+        System.out.println("satırı değiştirip çakışma yapalım");
 
     }
 }
