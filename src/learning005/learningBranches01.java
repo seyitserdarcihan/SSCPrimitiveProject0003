@@ -6,5 +6,6 @@ public class learningBranches01 {
 
         System.out.println("Kendi dalımda çalışmayı öğreniyorum");
 
+        System.out.println("seyit3 dalı ile farklılaşması için bu satır yazıldı");
     }
 }
