@@ -6,5 +6,6 @@ public class leavingTheBranchUnchanged {
 
         System.out.println("I will leave this branch unchanged on GitHub");
         System.out.println("Bakalım bir dalı kendi halinde GitHub'da güncellemeye devam edebiliyor muyuz.");
+        System.out.println("bakalım iki farklı yan dal kendi yolunda gittiğinde GitHub'da nasıl görünüyor");
     }
 }
